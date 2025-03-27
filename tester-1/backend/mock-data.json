@@ -1,0 +1,41 @@
+{
+    "args": {},
+    "data": {
+        "firstName": "Estella",
+        "lastName": "Torp",
+        "createdAt": "2024-12-12T22:30:03.072Z",
+        "address": {
+            "line1": "913 Chet Shores",
+            "line2": "Herzogside",
+            "country": "OM"
+        }
+    },
+    "files": {},
+    "form": {},
+    "headers": {
+        "host": "postman-echo.com",
+        "x-request-start": "t1734042603.340",
+        "connection": "close",
+        "content-length": "214",
+        "x-forwarded-proto": "https",
+        "x-forwarded-port": "443",
+        "x-amzn-trace-id": "Root=1-675b63eb-575d7c5b61b1ae8a13c2ff63",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.43.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "3ab04949-bd80-439a-b794-9a155c275fcc",
+        "accept-encoding": "gzip, deflate, br"
+    },
+    "json": {
+        "firstName": "Estella",
+        "lastName": "Torp",
+        "createdAt": "2024-12-12T22:30:03.072Z",
+        "address": {
+            "line1": "913 Chet Shores",
+            "line2": "Herzogside",
+            "country": "OM"
+        }
+    },
+    "url": "https://postman-echo.com/post"
+}

@@ -1,0 +1,7 @@
+.signup-form{
+    justify-content: flex;
+    justify-items: center;
+    min-height: screen;
+    background-color: rgb(243 244 246);
+    ;
+}

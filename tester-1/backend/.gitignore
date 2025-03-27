@@ -1,0 +1,12 @@
+#nothing in this file will exist remotely, ONLY locally
+#large files, media/assets and secret passwords and keys
+#security 
+
+
+.env
+node_modules
+*.log
+*.tmp
+dist/
+
+build/
