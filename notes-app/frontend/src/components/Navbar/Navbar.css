@@ -1,0 +1,41 @@
+/* 
+going over sustainable and accessible design briefly
+greens and black colors with Adobe color picker or inspect
+/* #35332E */
+/* #345F39 */
+/* #203D1F */
+/* #0D0F0E */
+
+/* EternalEyes, FDI, G-Type, Joe Hewitt Design, 
+TOMO Fonts, Typogama, and astroluxtype, dm sans, roboto/* */
+
+
+nav{
+    background: radial-gradient(#87c37a,#325732);
+    position: relative;
+    font-family: 'DM sans';
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+.header-title {
+    font-size: 78px;
+    color:#0D0F0E ;
+}
+.nav-items{
+    display: flex;
+    justify-content: space-evenly;
+    MARGIN-LEFT: 50%;
+    list-style-type: none;
+
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+  }
