@@ -31,6 +31,7 @@ Original Outline of 11 week lessons would have been:
  * Install, filetree establishing/best practices
 * Building simple functional components.
 * Understanding props and state.
+
 **Week 2:**
 * External API Fetch - Fetching Data from APIs
 * Introduction to external APIs and HTTP methods.
@@ -39,6 +40,7 @@ Original Outline of 11 week lessons would have been:
 * Managing state with fetched data.
 * Error handling and loading states.
 * Simple Routing with React - brief components structure and state reiterate
+
 **Week 3:**
 * Node.js, NPM, ASync + Express Basics
 * NPM, async, error handling, .then .catch
@@ -46,22 +48,26 @@ Original Outline of 11 week lessons would have been:
 * Understanding middleware and routing in Express.
 * JSON and mock data set up
 * Setting up basic GET and POST routes.
+
 **Week 4:**
 * Express API - Routing, Validation, and Error Handling
 * Advanced routing in Express.
 * Input validation and error handling.
 * Testing backend routes with tools like Postman or Insomnia.
+
 **Week 5:**
 * MongoDB Basics - Connecting to MongoDB
 * Introduction to MongoDB and NoSQL concepts.
 * Setting up MongoDB (local or MongoDB Atlas).
 * Connecting Node.js + Express to MongoDB using Mongoose.
 * Basic CRUD operations (Create, Read, Update, Delete).
+
 **Week 6:**
 * MongoDB - Advanced Queries and Relationships
 * Advanced querying in MongoDB (filters, projections, sorting).
 * Understanding relationships in MongoDB (embedding vs referencing).
 * Creating schemas and models in Mongoose.
+
 **Week 7:**
 * JWT  Passport Authentication - Final Setup
 * Introduction to authentication (JWT, sessions).
@@ -71,6 +77,7 @@ Original Outline of 11 week lessons would have been:
 * Handling login and registration flows.
 * Storing and validating JWT tokens.
 * Protecting backend routes with JWT authentication middleware.
+
 **Week 8:**
 * Frontend and backend config
 * Connecting React frontend to Express API using axios
@@ -79,14 +86,17 @@ Original Outline of 11 week lessons would have been:
 * Sending and receiving data between the frontend and backend.
 * Handling authentication tokens and integrating forms.
 * Frontend integration routes 
+
 **Week 9:**
 * Frontend accessible design and Testing with mocha/chai
+
 **Week 10:**
 * Solo Project Work - They will choose their app idea, set up the frontend (React), backend (Node.js/Express), and database (MongoDB).
 * Instructor approval, provides guidance, troubleshooting, and feedback
 * Students begin building their personal apps from notes_app example,
 * Finalizing integration between frontend and backend.
 * Focus on completing app functionality requirements (user authentication, database operations, error handling).
+
 **Week 11:**
 * Project Completion, Deployment, and Post-Deployment Testing
 * Refining features, building out and fixing issues. Students begin testing their apps.
