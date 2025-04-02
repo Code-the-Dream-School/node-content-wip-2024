@@ -21,7 +21,7 @@ Projects built by the end of the course:
 
 ----
 
-Original Outline of 15 week lessons would have been:
+Original Outline of 11 week lessons would have been:
 
 **Week 1:** 
 * Fullstack overview and Intro to React Basics
